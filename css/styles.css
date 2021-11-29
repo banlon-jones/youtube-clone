@@ -58,7 +58,6 @@ li a {
   width: 70rem;
   height: 40rem;
   border: none;
-
 }
 
 .main {
@@ -81,6 +80,5 @@ aside {
 }
 
 .details {
-  padding: 1px 1.0rem;
+  padding: 1px 1rem;
 }
-
