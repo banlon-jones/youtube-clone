@@ -9,10 +9,12 @@ header{
   width: 100%;
   background-color: white;
 }
+
 nav{
   display: flex;
   width: 100%;
 }
+
 ul {
   list-style-type: none;
   margin: 0;
@@ -31,43 +33,53 @@ li a {
   text-decoration: none;
   color: black;
 }
+
 .brand{
   flex: 50%;
   margin-right: 1.6rem;
 }
+
 .search-bar{
   flex: 90%;
 }
+
 .search{
   padding: 8px 12px;
   width: 100%;
 }
+
 .menu{
   flex: 80%;
   align-self: flex-start;
   margin-left: 24%;
 }
+
 .video{
   width: 70.0rem;
   height: 40.0rem;
   border: none;
 
 }
+
 .main{
   margin: 16px 6%;
   display: flex;
 }
+
 aside{
   margin: 6px 2.9rem;
 }
+
 .film{
   display: flex;
   margin-bottom: 1.2rem;
 }
+
 .thumbnail{
   width: 150px;
   height: 120px;
 }
+
 .details{
   padding: 1px 1.0rem;
 }
