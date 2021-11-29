@@ -1,16 +1,16 @@
-body{
+body {
   font-size: 16px;
   background-color: #f9f9f9;
 }
 
-header{
+header {
   padding: 0.6rem 1.6rem;
   display: flex;
   width: 100%;
   background-color: white;
 }
 
-nav{
+nav {
   display: flex;
   width: 100%;
 }
@@ -34,53 +34,53 @@ li a {
   color: black;
 }
 
-.brand{
+.brand {
   flex: 50%;
   margin-right: 1.6rem;
 }
 
-.search-bar{
+.search-bar {
   flex: 90%;
 }
 
-.search{
+.search {
   padding: 8px 12px;
   width: 100%;
 }
 
-.menu{
+.menu {
   flex: 80%;
   align-self: flex-start;
   margin-left: 24%;
 }
 
-.video{
+.video {
   width: 70.0rem;
   height: 40.0rem;
   border: none;
 
 }
 
-.main{
+.main {
   margin: 16px 6%;
   display: flex;
 }
 
-aside{
+aside {
   margin: 6px 2.9rem;
 }
 
-.film{
+.film {
   display: flex;
   margin-bottom: 1.2rem;
 }
 
-.thumbnail{
+.thumbnail {
   width: 150px;
   height: 120px;
 }
 
-.details{
+.details {
   padding: 1px 1.0rem;
 }
 
